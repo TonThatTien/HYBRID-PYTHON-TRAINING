@@ -1,0 +1,1 @@
+print(f"Each person should pay: ${money}")
